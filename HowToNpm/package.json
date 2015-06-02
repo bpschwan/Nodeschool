@@ -1,0 +1,17 @@
+{
+  "name": "bpschwan",
+  "version": "1.0.2",
+  "description": "howToNpmPackage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "bpschwan",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "www.fakerepo.com"
+  }
+}
